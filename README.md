@@ -1,4 +1,4 @@
-# SeoCloudbot-MNowak-
+# SeoChatbot-MNowak-( Vest )
 Developing Api and seo systems
 scrolling behavior in the GitHub 11 tab, ensuring the detailed information about the 11 active integrations and 3,800+ repo scan analysis is easily accessible.
 
